@@ -8,6 +8,7 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você tem uma máquina Windows / Linux / Mac.
+- Instalar o Unity Hub
 
 ## 🚀 Instalando Rhythm Runner 
 
